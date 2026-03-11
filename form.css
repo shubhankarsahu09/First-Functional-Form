@@ -1,0 +1,10 @@
+body{
+    h1{
+        text-align: center;
+        text-transform: capitalize;
+        text-decoration: solid;
+        text-decoration: underline;
+    }
+    background-color: rgb(125, 241, 203);
+    margin: 30px;
+}
